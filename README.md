@@ -26,3 +26,6 @@ endmodule
 ```
 # Output:
 ![image](https://github.com/Gowtham-raj7/HALF_ADDER/assets/164861308/b981ef59-1f08-42fb-a4e6-05ebfed12750)
+# RESULT:
+Hence Half Adder Verified.
+
